@@ -1,0 +1,5 @@
+b=input("enter vvalue of b")
+a=input("enter the value of a")
+c=input("enter value of  c")
+x=((-b)+-0.5*(b*b-4*a*c))/(2*a)
+print(x)
